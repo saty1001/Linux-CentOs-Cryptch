@@ -1,0 +1,74 @@
+>> To Check The Text Base Consoles
+	press ctrl+alt+f2
+		to
+	press ctrl+alt+f6
+
+>> To Check The Terminal Type
+	tty
+
+>>To Check The Graphical Console
+	press ctrl+alt+f1
+
+>>To Change The Dir
+	cd
+  
+>>To Open The Terminal With Command
+	press alt+f2
+	then write gnome-terminal on console
+  
+>>To Maximize and Minimize the Terminal
+	press f11
+  
+>>To Increase The Font Size
+	press ctrl+shift+plus
+  
+>>To Decrease The Font Size
+	ctrl+minus
+  
+>>To Open The Terminal
+	*right click on desktop
+	*click on open terminal
+  
+>>To check the present working DIR
+	pwd
+  
+>>To check the contains of pwd
+	ls
+  
+>>To check The Contains Of Pwd
+	ls
+  
+>>To Check The Proporties Of Files
+	ls -l
+  
+>>To Check The Hideen Files
+	ls -a
+  
+>>To Check The INode Number
+	ls -i
+  
+>>To Create A File
+
+	cat>linux
+	this is linux
+	press enter
+	press ctrl+d(to save & quit)
+
+>>To Read A fILE
+	cat linux
+  
+>>To Appand A File
+	cat >> linux
+	this is another line
+	press enter
+	press ctrl+d(to save & quit)
+
+>>Cat linux(to read the file)
+	cat linux
+
+>>To Create A Multiple Files
+	touch v1 v2 v3 v4 v5
+	ls to check newly created file
+
+
+
